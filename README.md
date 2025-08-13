@@ -1,4 +1,6 @@
-# @julienbenac/ally-strava
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/058ab361-5c68-407a-b3aa-5312e14754dd" />
+</div>
 
 <div align="center">
 
